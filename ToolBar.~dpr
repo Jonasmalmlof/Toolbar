@@ -1,0 +1,18 @@
+program ToolBar;
+
+uses
+  Forms,
+  ToolBarMainFormUnit in 'ToolBarMainFormUnit.pas' {ToolBarMainForm},
+  MenuFormUnit in 'MenuFormUnit.pas' {MenuForm},
+  TGenPickFolderUnit in '..\PmaComp\TGenPickFolderUnit.pas',
+  ToolBarWinUnit in 'ToolBarWinUnit.pas' {ToolBarWin};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.Title := 'ToolBar';
+  Application.CreateForm(TToolBarMainForm, ToolBarMainForm);
+  Application.ShowMainForm := False;
+  Application.Run;
+end.

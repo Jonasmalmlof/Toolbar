@@ -1,0 +1,27 @@
+13:42:32.416 Log Opened
+13:42:32.421 ToolBar Opening 5517046
+13:42:32.424 
+13:42:32.426 TAppProp.Startup 
+13:42:32.429   IniFile D:\Programming\Pappas\ToolBar\ToolBar.ini
+13:42:32.432   MainForm: ToolBarMainForm
+13:42:32.436   TGenPopupMenu.Startup (AppMenu)
+13:42:32.438 ToolBar: D:\Programming\Pappas\ToolBar\Folder
+13:42:32.443 ToolBar Window Creation D:\Programming\Pappas\ToolBar\Folder
+13:42:32.450 TMenuForm.Created D:\Programming\Pappas\ToolBar\Folder
+13:42:32.459 ToolBar Opened
+13:42:32.465 ------------------------------------------------------------
+13:43:21.227 Refresh D:\Programming\Pappas\ToolBar\Folder
+13:43:21.237 TMenuForm.Destroy D:\Programming\Pappas\ToolBar\Folder
+13:43:21.250 TMenuForm.Created D:\Programming\Pappas\ToolBar\Folder
+13:43:33.931 Refresh D:\Programming\Pappas\ToolBar\Folder
+13:43:33.940 TMenuForm.Destroy D:\Programming\Pappas\ToolBar\Folder
+13:43:33.957 TMenuForm.Created D:\Programming\Pappas\ToolBar\Folder
+13:44:46.492 Refresh D:\Programming\Pappas\ToolBar\Folder
+13:44:46.502 TMenuForm.Destroy D:\Programming\Pappas\ToolBar\Folder
+13:44:46.516 TMenuForm.Created D:\Programming\Pappas\ToolBar\Folder
+13:45:13.631 Refresh D:\Programming\Pappas\ToolBar\Folder
+13:45:13.640 TMenuForm.Destroy D:\Programming\Pappas\ToolBar\Folder
+13:45:13.656 TMenuForm.Created D:\Programming\Pappas\ToolBar\Folder
+13:45:55.991 Refresh D:\Programming\Pappas\ToolBar\Folder
+13:45:56.005 TMenuForm.Destroy D:\Programming\Pappas\ToolBar\Folder
+13:45:56.021 TMenuForm.Created D:\Programming\Pappas\ToolBar\Folder

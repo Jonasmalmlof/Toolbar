@@ -1,0 +1,79 @@
+Classes:
+TObject
+  TPmaClassFactory
+  TPersistent
+    TComponent
+      TPmaLog
+      TWmMsgFactory
+      TControl
+        TWinControl
+          TScrollingWinControl
+            TCustomForm
+              TForm
+                TGenColorPick
+                TMenuForm
+                TToolBarWin
+                TToolBarMainForm
+          TCustomControl
+            TGenScrollBar
+            TGenMemo
+            TGenButton
+            TGenSlider
+            TGenProgressBar
+        TGraphicControl
+          TGenVuMeter
+          TPaintBox
+            TGenLight
+      TMenu
+        TPopupMenu
+          TGenPopupMenu
+      TMenuItem
+        TGenMenuItem
+      TAppProp
+      TGenFileSystem
+  TPmaLogAsync
+  TCustomIniFile
+    TIniFile
+      TGenIniFile
+  TWmMsgSubscriber
+  TWmMsgMessage
+  TMyTimer
+  TGenHsv
+  THsvBaseFrame
+    THsvHueFrame
+    THsvSatFrame
+    THsvValueFrame
+    THsvHueCircleFrame
+    THsvSatValFrame
+  THsvHueSatFrame
+  TGenAppPropBase
+    TGenAppPropFont
+    TGenAppPropRect
+    TGenAppPropPoint
+    TGenAppPropColor
+    TGenAppPropCustomColors
+    TGenAppPropInt
+    TGenAppPropDouble
+    TGenAppPropBool
+    TGenAppPropString
+    TGenAppPropStringList
+    TGenAppPropNameValueList
+  TGenAppPropList
+  TWmiObject
+  TPmaDateTime
+  TPmaTimer
+  TGenDriveTemp
+  TGenPickFolder
+  TGenFole
+    TGenFile
+    TGenFolder
+      TGenDrive
+      TGenComputer
+
+Modules:
+Total Lines of Code: 0
+
+Tot Classes: 70
+Tot Modules: 37
+Classes: 0 (After Clear)
+Modules: 0 (After Clear)
