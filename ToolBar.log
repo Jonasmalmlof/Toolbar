@@ -1,27 +1,42 @@
-13:42:32.416 Log Opened
-13:42:32.421 ToolBar Opening 5517046
-13:42:32.424 
-13:42:32.426 TAppProp.Startup 
-13:42:32.429   IniFile D:\Programming\Pappas\ToolBar\ToolBar.ini
-13:42:32.432   MainForm: ToolBarMainForm
-13:42:32.436   TGenPopupMenu.Startup (AppMenu)
-13:42:32.438 ToolBar: D:\Programming\Pappas\ToolBar\Folder
-13:42:32.443 ToolBar Window Creation D:\Programming\Pappas\ToolBar\Folder
-13:42:32.450 TMenuForm.Created D:\Programming\Pappas\ToolBar\Folder
-13:42:32.459 ToolBar Opened
-13:42:32.465 ------------------------------------------------------------
-13:43:21.227 Refresh D:\Programming\Pappas\ToolBar\Folder
-13:43:21.237 TMenuForm.Destroy D:\Programming\Pappas\ToolBar\Folder
-13:43:21.250 TMenuForm.Created D:\Programming\Pappas\ToolBar\Folder
-13:43:33.931 Refresh D:\Programming\Pappas\ToolBar\Folder
-13:43:33.940 TMenuForm.Destroy D:\Programming\Pappas\ToolBar\Folder
-13:43:33.957 TMenuForm.Created D:\Programming\Pappas\ToolBar\Folder
-13:44:46.492 Refresh D:\Programming\Pappas\ToolBar\Folder
-13:44:46.502 TMenuForm.Destroy D:\Programming\Pappas\ToolBar\Folder
-13:44:46.516 TMenuForm.Created D:\Programming\Pappas\ToolBar\Folder
-13:45:13.631 Refresh D:\Programming\Pappas\ToolBar\Folder
-13:45:13.640 TMenuForm.Destroy D:\Programming\Pappas\ToolBar\Folder
-13:45:13.656 TMenuForm.Created D:\Programming\Pappas\ToolBar\Folder
-13:45:55.991 Refresh D:\Programming\Pappas\ToolBar\Folder
-13:45:56.005 TMenuForm.Destroy D:\Programming\Pappas\ToolBar\Folder
-13:45:56.021 TMenuForm.Created D:\Programming\Pappas\ToolBar\Folder
+16:01:02.018 Log Opened
+16:01:02.039 ToolBar Opening 14468671
+16:01:02.044 
+16:01:02.048 TAppProp.Startup 
+16:01:02.053   IniFile D:\Programming\Pappas\ToolBar\ToolBar.ini
+16:01:02.058   MainForm: ToolBarMainForm
+16:01:02.065   TGenPopupMenu.Startup (AppMenu)
+16:01:02.070 ToolBar: D:\Programming\Pappas\ToolBar\Folder
+16:01:02.080 ToolBar Window Creation D:\Programming\Pappas\ToolBar\Folder
+16:01:02.098 TMenuForm.Created D:\Programming\Pappas\ToolBar\Folder
+16:01:02.109 ToolBar Opened
+16:01:02.114 ------------------------------------------------------------
+16:01:08.742 Form OnCloseQuery
+16:01:08.745 Form OnClose
+16:01:08.748 ------------------------------------------------------------
+16:01:08.751 ToolBar ShutDown
+16:01:08.757 ToolBar: D:\Programming\Pappas\ToolBar\Folder
+16:01:08.761 
+16:01:08.764 App Prop Shutdown:
+16:01:08.766   Count: 12 (In List) 12 (Debug)
+16:01:08.768   Prop: TGenAppPropRect           Section: AppPreferences       Ident: MainRect            
+16:01:08.771   Prop: TGenAppPropBool           Section: AppPreferences       Ident: HintOn              
+16:01:08.774   Prop: TGenAppPropFont           Section: AppPreferences       Ident: MainFont            
+16:01:08.776   Prop: TGenAppPropBool           Section: AppPreferences       Ident: Border              
+16:01:08.779   Prop: TGenAppPropColor          Section: AppPreferences       Ident: BackgroundColor     
+16:01:08.781   Prop: TGenAppPropColor          Section: AppPreferences       Ident: ForegroundColor     
+16:01:08.784   Prop: TGenAppPropColor          Section: AppPreferences       Ident: HighlightColor      
+16:01:08.786   Prop: TGenAppPropInt            Section: Preferences          Ident: ShowTime            
+16:01:08.789   Prop: TGenAppPropInt            Section: Preferences          Ident: HideTime            
+16:01:08.791   Prop: TGenAppPropStringList     Section: ToolBars             Ident:                     
+16:01:08.794   Prop: TGenAppPropRect           Section: Folder               Ident: Rect                
+16:01:08.796   Prop: TGenAppPropBool           Section: Folder               Ident: Visible             
+16:01:08.808   TGenPopupMenu.ShutDown (AppMenu)
+16:01:08.810 
+16:01:08.813 Programming:
+16:01:08.816   Classes: 70
+16:01:08.818   Modules: 37
+16:01:08.821   Classes: 0 (After Clear)
+16:01:08.824   Modules: 0 (After Clear)
+16:01:08.830 Form Destroy Folder
+16:01:08.834 TMenuForm.Destroy D:\Programming\Pappas\ToolBar\Folder
+16:01:08.837 Log Closed
